@@ -1,34 +1,5 @@
 # DECODER
 
-> **DECODER** is a free public desktop application.
-
-This repository is used **only** for distributing official releases.
-
-### 📥 Downloads
-
-* All official downloads are available in the **Releases** section.
-* ⚠️ **Note:** Do not download DECODER from third-party or unofficial sources to protect your system from malware.
-
----
-
-## ✨ Features
-
-1. **Premium Editions**
-Add games directly to your Steam library. Includes the latest Decoder patches that fix encrypted file issues and "no internet connection" errors.
-2. **Shared Accounts**
-Get free access to community-shared accounts.
-3. **Decode X**
-Allows you to bypass game restrictions seamlessly.
-4. **Virtual X**
-Play emulator games directly on your PC.
-5. **Rent Games**
-Rent the latest games at the lowest possible prices.
-6. **Steam Fix Center**
-Fix all your Steam issues in one central hub, resolving common bugs like infinite loading, encrypted files, and internet connection errors.
-
----
-
-## ⚖️ Usage Policy & Disclaimer
-
-**DECODER is strictly a free, non-commercial project.**
-The sale, resale, monetization, or commercial redistribution of this application in any form is strictly prohibited. This software is provided exclusively for personal public use, and any unauthorized attempts to profit from it violate our core distribution policies.
+* Latest releases available in the Releases section
+* Not meant for everyone
+* Those who need it usually know why they're here
